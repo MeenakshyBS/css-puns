@@ -1100,3 +1100,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+```css
+#rap-artists{
+  word-spacing:0;
+}
